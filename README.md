@@ -1,4 +1,4 @@
-![js](https://github.com/darneees/Javascript_Course-ALURA/assets/79709843/cddb1df4-56a8-41af-aafa-6d03d1c3aa73)
+![js](https://github.com/darneees/Javascript_Course-ALURA/assets/79709843/489c46a8-a5b6-4efb-9349-03fcdf888e8d)
 
 <p>
   JavaScript é uma linguagem de programação amplamente utilizada para desenvolver aplicativos web dinâmicos e interativos. Ela é conhecida por sua versatilidade e é uma parte fundamental do desenvolvimento front-end e back-end na web. JavaScript permite que você adicione comportamento aos seus sites, tornando-os mais dinâmicos e responsivos.
