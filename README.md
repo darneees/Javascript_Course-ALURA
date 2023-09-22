@@ -34,5 +34,5 @@ JavaScript é uma linguagem versátil que continua a evoluir. À medida que voc�
 - ``JAVASCRIPT``
 
 <h3 align="center">
-  :construction: PROJETO FINALIZADO :construction:
+  :construction: ... :construction:
 </h3>
